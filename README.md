@@ -29,3 +29,4 @@ Behavioral patterns focus on communication between objects and the distribution 
 - **Observer**: Defines a one-to-many dependency between objects, so that when one object changes state, all its dependents are notified and updated automatically
 - **Strategy**: Defines a family of interchangeable algorithms, allowing the algorithm to be selected at runtime
 - **Template Method**: Defines the structure of an algorithm but lets subclasses override specific steps
+- **Null Object**: Provides an object as a surrogate for the lack of an object of a given type
