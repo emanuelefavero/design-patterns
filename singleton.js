@@ -26,3 +26,5 @@ console.log(logger1 === logger2) // true
 
 logger1.log('Hello from logger 1')
 logger2.log('Hello from logger 2')
+
+// NOTE: The singleton pattern is often criticized because it introduces global state in your application and it makes it harder to test your code
